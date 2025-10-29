@@ -1,0 +1,128 @@
+checkingclusteredpointswithsklearn.csv
+dataframe.cpg
+dataframe.dbf
+dataframe.prj
+dataframe.shp
+dataframe.shx
+dropoff counts agggregated rides.csv
+dropoff counts all rides.csv
+modzcta_zcta.csv
+nyct2010_zcta.csv
+output.cpg
+output.dbf
+output.prj
+output.shp
+output.shx
+pickup counts aggregated rides.csv
+Resources/~$a_data_challenge_2025.docx
+Resources/cohere pets case.pptx.pdf
+Resources/drpt_virginia_rural_microtransit_case_study.pdf
+Resources/first_mile_transit_trip_paper.pdf
+Resources/fort_erie_on_demand.pdf
+Resources/microtransit_solutions_nas_book.pdf
+Resources/ride aggregation resources.pdf
+Resources/ride_pooing_design_TRP.pdf
+Resources/seattle_fixed_ride_supplement_microtransit.pdf
+Resources/SWRPC-Microtransit-Feasibility-and-Fixed-Route-Transit-Service-Plan-Design-Assistance-Study.pdf
+Resources/trip_demand_aggregation_DRS.pdf
+Resources/tscore_report_kentucky.pdf
+Resources/via_data_challenge_2025.docx
+Figures/ProcessFigures/dbscan.png
+Figures/ProcessFigures/dbscan2.png
+Figures/ProcessFigures/dbscan3.png
+Figures/ProcessFigures/dbscan4.png
+Figures/ProcessFigures/dbscan5.png
+Figures/ProcessFigures/hdbscan 05 eps.png
+Figures/ProcessFigures/hdbscan1.png
+Figures/ProcessFigures/hdbscan2.png
+Figures/ProcessFigures/hdbscan3.png
+Figures/ProcessFigures/hdbscan4.png
+Figures/ProcessFigures/hdbscan5.png
+Figures/ProcessFigures/hdbscan6.png
+Figures/ProcessFigures/kmeans.png
+Figures/ProcessFigures/kmeans2.png
+Figures/ProcessFigures/kmeans3.png
+Figures/ProcessFigures/kmeans60_2.png
+Figures/ProcessFigures/kmeans60.png
+Figures/ProcessFigures/kmeans180.png
+Figures/ProcessFigures/kmeans240.png
+Figures/ProcessFigures/kmeans260.png
+Figures/ProcessFigures/kmeans09059010hist.png
+Figures/ProcessFigures/routesMonday.png
+Figures/ProcessFigures/sampled routes across full day.png
+Figures/ProcessFigures/scatter.png
+Figures/ProcessFigures/Untitled.png
+Figures/ProcessFigures/Untitled2.png
+Figures/ProcessFigures/Untitled3.png
+Figures/ProcessFigures/zoomscatter.png
+Outputs/Old/all_aggregated_ct_stats_20251027_221440.csv
+Outputs/Old/all_aggregated_ct_stats_20251027_221716.csv
+Outputs/Old/all_aggregated_ct_stats_20251027_222814.csv
+Outputs/Old/all_aggregated_ct_stats_20251027_223533.csv
+Outputs/Old/all_aggregated_ct_stats_20251028_101812.csv
+Outputs/Old/all_aggregated_ct_stats_20251028_103047.csv
+Outputs/Old/all_aggregated_ct_stats_do_20251028_103913.csv
+Outputs/Old/all_aggregated_ct_stats_do_20251028_104801.csv
+Outputs/Old/all_aggregated_ct_stats_do_20251028_105450.csv
+Outputs/Old/all_aggregated_ct_stats_do_20251028_202636.csv
+Outputs/Old/all_aggregated_ct_stats_do_20251028_203504.csv
+Outputs/Old/all_aggregated_ct_stats_pu_20251028_103913.csv
+Outputs/Old/all_aggregated_ct_stats_pu_20251028_104801.csv
+Outputs/Old/all_aggregated_ct_stats_pu_20251028_105450.csv
+Outputs/Old/all_aggregated_ct_stats_pu_20251028_202636.csv
+Outputs/Old/all_aggregated_ct_stats_pu_20251028_203504.csv
+Outputs/Old/all_individual_ct_stats_20251027_221440.csv
+Outputs/Old/all_individual_ct_stats_20251027_221716.csv
+Outputs/Old/all_individual_ct_stats_20251027_222814.csv
+Outputs/Old/all_individual_ct_stats_20251027_223533.csv
+Outputs/Old/all_individual_ct_stats_20251028_101812.csv
+Outputs/Old/all_individual_ct_stats_20251028_103047.csv
+Outputs/Old/all_individual_ct_stats_20251028_103913.csv
+Outputs/Old/all_individual_ct_stats_20251028_104801.csv
+Outputs/Old/all_individual_ct_stats_20251028_105450.csv
+Outputs/Old/all_individual_ct_stats_20251028_202636.csv
+Outputs/Old/all_individual_ct_stats_20251028_203504.csv
+Outputs/Old/all_pooled_rides_20251027_221440.csv
+Outputs/Old/all_pooled_rides_20251027_221716.csv
+Outputs/Old/all_pooled_rides_20251027_222814.csv
+Outputs/Old/all_pooled_rides_20251027_223533.csv
+Outputs/Old/all_pooled_rides_20251028_101812.csv
+Outputs/Old/all_pooled_rides_20251028_103047.csv
+Outputs/Old/all_pooled_rides_20251028_103913.csv
+Outputs/Old/all_pooled_rides_20251028_104801.csv
+Outputs/Old/all_pooled_rides_20251028_105450.csv
+Outputs/Old/all_pooled_rides_20251028_202636.csv
+Outputs/Old/all_pooled_rides_20251028_203504.csv
+Outputs/Old/all_pooled_rides_test.csv
+Outputs/Old/all_pooled_rides.csv
+Outputs/Old/assigned_unique_gdf.csv
+Outputs/Old/cluster_records_20251027_221440.csv
+Outputs/Old/cluster_records_20251027_221716.csv
+Outputs/Old/cluster_records_20251027_222814.csv
+Outputs/Old/cluster_records_20251027_223533.csv
+Outputs/Old/cluster_records_20251028_101812.csv
+Outputs/Old/cluster_records_20251028_103047.csv
+Outputs/Old/cluster_records_20251028_103913.csv
+Outputs/Old/cluster_records_20251028_104801.csv
+Outputs/Old/cluster_records_20251028_105450.csv
+Outputs/Old/cluster_records_20251028_202636.csv
+Outputs/Old/cluster_records_20251028_203504.csv
+Outputs/Old/cluster_records_test.csv
+Outputs/Old/cluster_records.csv
+Outputs/Old/manhattan_pooled_stats.csv
+Outputs/Old/manhattan_ride_stats.csv
+Outputs/Old/ride_locations_with_census_tract.csv
+Outputs/Old/stats_for_manhattan20251028_105450.csv
+via_dc.ipynb
+Figures/comparison histograms old/anova.txt
+Figures/comparison histograms old/fare.png
+Figures/comparison histograms old/trip_distance.png
+Figures/comparison histograms old/trip_speed.png
+Figures/comparison histograms old/trip_time.png
+Outputs/Old/cluster_records_20251029_120531.csv
+Outputs/Old/*
+Resources/*
+Data_Sources/Unused or Old/*
+/Data_Sources/Unused or Old
+/Data_Sources/Unused or Old
+/Data_Sources/Unused or Old/Unused Files
