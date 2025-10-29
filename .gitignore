@@ -126,3 +126,13 @@ Data_Sources/Unused or Old/*
 /Data_Sources/Unused or Old
 /Data_Sources/Unused or Old
 /Data_Sources/Unused or Old/Unused Files
+Data_Sources/ride_locations_with_census_tract.csv
+Data_Sources/rides_df_realrealreal.csv
+Data_Sources/tl_2010_36_zcta510/tl_2010_36_zcta510.dbf
+Data_Sources/tl_2010_36_zcta510/tl_2010_36_zcta510.prj
+Data_Sources/tl_2010_36_zcta510/tl_2010_36_zcta510.shp
+Data_Sources/tl_2010_36_zcta510/tl_2010_36_zcta510.shp.xml
+Data_Sources/tl_2010_36_zcta510/tl_2010_36_zcta510.shx
+Outputs/ride_locations_with_census_tract.csv
+Outputs/complete_set_with_spatial.csv
+/Figures/ProcessFigures
